@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/schoolMang/static/css/main.c15d4610.css",
+    "main.js": "/schoolMang/static/js/main.69e8b918.js",
+    "static/js/787.77761eed.chunk.js": "/schoolMang/static/js/787.77761eed.chunk.js",
+    "static/media/classBoard.png": "/schoolMang/static/media/classBoard.d34519e0d44f6c1352ed.png",
+    "index.html": "/schoolMang/index.html",
+    "main.c15d4610.css.map": "/schoolMang/static/css/main.c15d4610.css.map",
+    "main.69e8b918.js.map": "/schoolMang/static/js/main.69e8b918.js.map",
+    "787.77761eed.chunk.js.map": "/schoolMang/static/js/787.77761eed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c15d4610.css",
+    "static/js/main.69e8b918.js"
+  ]
+}
